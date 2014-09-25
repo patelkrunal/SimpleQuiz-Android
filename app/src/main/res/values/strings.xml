@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">WRONG!</string>
+    <string name="next_button">Next</string>
+    <string name="question1">My name is Krunal?</string>
+    <string name="question2">My Age is 23 ?</string>
+    <string name="question3">My Country is India?</string>
+    <string name="previous_button">previous</string>
+    <string name="title_activity_activity_cheat">activity_cheat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="warning">Are you sure you want to cheat?</string>
+    <string name="cheat_button">Show Answer</string>
+    <string name="cheat">Cheat</string>
+    <string name="did_cheat">did cheat</string>
+</resources>
